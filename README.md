@@ -1,2 +1,2 @@
 # elasticTerminal
-A Terminal utility which gives an higher level abstraction of elastic Apis
+A Terminal utility which provides the status of Elastic nodes
